@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wrong">Formato incorreto</string>
+    <string name="ex">Formato incorreto. Operando Sem números?</string>
+    <string name="re">Formato incorreto</string>
+    <string name="fd">Infinito</string>
+    <string name="fffff">Divisão por zero não é permitida</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wrong">Falsches Format</string>
+    <string name="ex">Falsches Format. Operand Ohne Zahlen?</string>
+    <string name="re">Falsches Format</string>
+    <string name="fd">Unendlichkeit</string>
+    <string name="fffff">Eine Division durch Null ist nicht zulässig</string>
+</resources>

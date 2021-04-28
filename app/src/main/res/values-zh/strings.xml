@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wrong">格式错误</string>
+    <string name="ex">格式错误。 没有任何数字的操作数？</string>
+    <string name="re">格式错误</string>
+    <string name="fd">无限</string>
+    <string name="fffff">不允许被零除</string>
+</resources>

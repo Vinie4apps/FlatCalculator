@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wrong">صيغة خاطئة</string>
+    <string name="ex">صيغة خاطئة. معامل بدون أي أرقام؟</string>
+    <string name="re">صيغة خاطئة</string>
+    <string name="fd">ما لا نهاية</string>
+    <string name="fffff">القسمة على صفر غير مسموح بها</string>
+</resources>
